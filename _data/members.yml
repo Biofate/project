@@ -4,5 +4,11 @@
   role: Researcher / Machine Learning and AI for ecotoxicological applications
   github: grisoniFr
   bio: todo 
-  url: todo
+  visible: true
+  
+
+- name: Dr. Viviana Consonni
+  role: Researcher / Machine Learning and AI for ecotoxicological applications
+  github: grisoniFr
+  bio: todo 
   visible: true
