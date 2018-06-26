@@ -1,5 +1,5 @@
 # Site settings
-title: BIO-Fate
+title: BIO-fate 
 description: "Machine learning methods for bioaccumulation prediction"
 url: "https://biofate.github.io/"
 
@@ -8,7 +8,7 @@ url: "https://biofate.github.io/"
 
 # Secondary Parameters
 baseurl: "/project"
-header-img: img/home-bg.jpg
+header-img: img/background.jpg
 headercolor: "#FFFFFF"
 logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
 
