@@ -2,10 +2,7 @@
 layout:    page
 title:     Publications
 subtitle:  List of relevant publications of the project
----
-
-
-* **2018**
+--
 
 
 ### 2016
