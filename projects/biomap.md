@@ -9,8 +9,7 @@ category: BMF
 *Biomagnification Factor prediction*
 
  
--* TOC 
- {:toc}
+* TOC{:toc}
 
 ## About
 
