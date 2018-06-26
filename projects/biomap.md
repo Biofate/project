@@ -7,114 +7,58 @@ category: BMF
 ---
 
 
-BioFate is the webpage of the project BIO-fate, which aims to develop machine learning models to better assess the bioaccumulation in aquatic environment, thereby reducing animal testing.
+# BIOMAP 
+*Biomagnification Factor prediction*
 
-### Our mission
-* Improve the bioaccumulation assessment at the regulatory level
-* Leverage machine-learning methods without losing the connection with mechanistic insights
-* Reduce animal testing
+## Welcome to the BIOMAP webpage
+
+This repository contains data related to the BIOMAP project.
+The project aims to develop *in silico* machine learning methods to predict the bioaccumulation in aquatic organisms through dietary routes, to increase the mechanistic understanding and to reduce animal testing. 
 
 
-# Basic Functionality
+### Information
 
-Welcome to the webpage of the BIOMAP (Biomagnification factor Prediction) project
+From this webpage, you can have access to two types of material: 
+* **logBMF dataset** 
+* **BIOMAP software**
 
-## Headers
+For more details see [Grisoni et al., 2018, Chemosphere](https://guides.github.com/features/mastering-markdown/).
 
-# Header 1
+## How to cite
 
-## Header 2
+The dataset is provided for free and can be used if proper reference is given to the authors. 
+Please, cite as:
 
-### Header 3
+* F. Grisoni, V.Consonni, M.Vighi (2018). Detecting the bioaccumulation patterns of chemicals through data-driven approaches, *Chemosphere*
+* F. Grisoni, V.Consonni, A. Mauri, M.Vighi (2018). Detecting the bioaccumulation patterns of chemicals through data-driven approaches, *Chemosphere*
 
-## Styling
+The BIOMAP software is provided for free and can be used if proper reference is given to the authors. 
+Please, cite it as:
+* F. Grisoni, V.Consonni, A. Mauri, M.Vighi (2018). Detecting the bioaccumulation patterns of chemicals through data-driven approaches, *Chemosphere*
 
-**Bold**
+For additional information on the licensing, see below. 
 
-*Italics*
+## Authors
 
-***Bold and Italics***
+* **Francesca Grisoni** (https://github.com/grisonifr), Principal Investigator
 
-## Lists
+Contributors to the project:
+* Francesca Grisoni, University of Milano-Bicocca, Milano, Italy 
+* Dr. Viviana Consonni, University of Milano-Bicocca, Milano, Italy
+* Prof. Marco Vighi, IMDEA Water, Madrid, Spain
+* Dr. Andrea Mauri, Alvascience srl, Lecco, Italy
 
-1. Item 1
+## License
 
-2. Item 2
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+For the BIOMAP software, see the [LICENSE.md](LICENSE.md) file for additional details. 
 
-* Unordered Item
+### Support or Contact
 
-  * Sub Item 1
+Having trouble with the repository? 
+Contact us and and we’ll help you sort it out.
 
-    1. **Bold** Sub Sub Ordered Item
-
-## Links
-
-[In-Line](https://www.google.com)
-
-[I'm a reference-style link 1][1]
-
-[I'm a reference-style link 1][2]
-
-[1]:https://www.mozilla.org
-[2]:http://www.reddit.com
-
-## Images
-
-Hold your pointer clicked over the image to expand the view.
-
-![Description](http://projectpages.github.io/project-pages/img/Logo_Fairy_Tail_right.png)
-
-## Code
-
-Inline `code`.
-
-{% highlight python %}
-import numpy as np
-def hello_world():
-    print('Hello World!'')
-{% endhighlight %}
-
-## MathJax
-
-Use MathJax for Math.
-$$ A = \pi r^2 $$
-
-## Tables
-
-Here | is | a | row!
-|---------|:----------|:----------:|---------:|
-is   |Left|  Center  |Right|
-a    | cut | it | A
-column  | short | B | C
-
-## Quotes
-
-> War does not decide who is *right*, only who is **left**.
-
-## Rule
-
----
-
-## HTML
-
-Can write the whole post or sections in HTML for very specific needs. [For the advanced user or the code savvy.]
-
-# Advanced Functionality
-
-Head over to the [documentation page](http://projectpages.github.io/ppguide/) for tutorials on some basic html formatting and some extensions you can use for cool stuff like interactive 3D visualizations.
-
-## Color and Alignment
-
-<p align="center">This text is centered.</p>
-
-<p style="color:red">This is a red text with <span style="color:blue">blue</span> and <span style="color:green">green</span> inline text.</p>
-
-# Some Advanced Features
-
-## Data Projector
-
-<embed src="/project-pages/2016/05/02/New-Projector/" height="500px" width="100%">
-
+* Francesca Grisoni (francesca.grisoni@unimib.it), University of Milano-Bicocca, Dept. of Earth and Environmental Sciences, Milano, Italy
 ## STL
 
 <div align="center"><script src="https://embed.github.com/view/3d/projectpages/project-pages/gh-pages/stl/test.stl"></script></div>
