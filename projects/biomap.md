@@ -59,6 +59,4 @@ Having trouble with the repository?
 Contact us and and we’ll help you sort it out.
 
 * Francesca Grisoni (francesca.grisoni@unimib.it), University of Milano-Bicocca, Dept. of Earth and Environmental Sciences, Milano, Italy
-## STL
 
-<div align="center"><script src="https://embed.github.com/view/3d/projectpages/project-pages/gh-pages/stl/test.stl"></script></div>
