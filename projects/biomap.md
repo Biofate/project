@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: page
 title: "BIOMAP"
 description: "Biomagnification factor Prediction project"
 header-img: "img/home-bg.jpg"
