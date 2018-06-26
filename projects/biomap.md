@@ -5,10 +5,13 @@ description: "Biomagnification factor Prediction project"
 header-img: "img/home-bg.jpg"
 category: BMF
 ---
-
-
-# BIOMAP 
+ 
 *Biomagnification Factor prediction*
+
+# Table of Contents
+
+* TOC
+{:toc}
 
 ## Welcome to the BIOMAP webpage
 
