@@ -1,7 +1,7 @@
 ---
 layout:    page
-title:     publications
-subtitle:  Some Short Description of Post
+title:     Publications
+subtitle:  List of relevant publications of the project
 ---
 
 prova
