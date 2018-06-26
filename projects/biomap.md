@@ -8,9 +8,9 @@ category: BMF
  
 *Biomagnification Factor prediction*
 
-# Table of Contents
-
-{:toc}
+ 
+-* TOC 
+ {:toc}
 
 ## About
 
