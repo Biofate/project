@@ -32,7 +32,7 @@ The dataset is provided for free and can be used if proper reference is given to
 Please, cite as:
 
 * F. Grisoni, V.Consonni, M.Vighi (2018). Detecting the bioaccumulation patterns of chemicals through data-driven approaches, *Chemosphere*
-* F. Grisoni, V.Consonni, A. Mauri, M.Vighi (2018). Detecting the bioaccumulation patterns of chemicals through data-driven approaches, *Chemosphere*
+* F. Grisoni, V.Consonni, A. Mauri, M.Vighi (2018). xxxxx, *xxxx*
 
 The BIOMAP software is provided for free and can be used if proper reference is given to the authors. 
 Please, cite it as:
